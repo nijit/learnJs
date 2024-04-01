@@ -1,0 +1,50 @@
+know all things in namaste javascript season 1 and season 2.
+
+Arrays and Objects
+    1. array destructuring
+    2. object destructuring
+    3. rest operator
+    4. spread operator
+
+coditions in JS
+ if else
+ ternary operator
+ using && and ||
+ optional chaining
+
+Array methods
+Map, filter, reduce, sort()
+
+Event Listeners
+ 1. onClick
+ 2. onBlur
+ 3. onChange
+ 4. onFocus
+setTimeout() & setInterval()
+
+Asynchronours Events
+    callbacks
+    callback hell
+    promises
+    promise apis 
+
+async await
+
+try catch
+
+
+==Summary==
+1. Variables
+2. functions
+- arrow functions
+-high order functions
+3. Array and objects
+-destructuring , rest , spread 
+4.conditional operator
+5.optional chaining
+6.array methods- map ,filter ,reduce ,sort
+7.event listeners - on click , on submit
+8. Intervals 
+9.callbacks , callbacks hell , promises , promise api
+10.async /await 
+11. Try /catch
